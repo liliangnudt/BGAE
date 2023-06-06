@@ -1,1 +1,1 @@
-The code for preprint AG.
+The code for preprint "BGAE: Auto-encoding Multi-view Bipartite Graph Clustering".
