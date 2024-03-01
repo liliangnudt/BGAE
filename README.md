@@ -1,1 +1,1 @@
-The code for preprint "BGAE: Auto-encoding Multi-view Bipartite Graph Clustering" is coming soon.
+The code for the accepted paper "BGAE: Auto-encoding Multi-view Bipartite Graph Clustering" by IEEE TKDE.
